@@ -4,3 +4,4 @@ dewpoints_full.csv
 fixdp.py
 jan-june-comp.*
 sig_*
+.ipynb_checkpoints
