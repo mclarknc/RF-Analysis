@@ -5,3 +5,4 @@ fixdp.py
 jan-june-comp.*
 sig_*
 .ipynb_checkpoints
+.gitignore
